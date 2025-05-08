@@ -13,14 +13,14 @@ CSV files with structured information about every Pixar film from Toy Story (199
 Imported the tables in Power BI to visualize the data. Let's look at the dashboard I created.
 ### Dashboard: 
 I divided the dashboard into 5 pages - Genre, Box Office Performance, Ratings, Academy and Creators since these are the key aspects of the legacy and help analyze the effect of the films.
-#### Genre: 
+### Genre: 
 - For Subgenre Trend I calculated the percentage of films and used a scatter plot to show film percentage in a subgenre over the year.
 ![Image](https://cdn.mavenanalytics.io/public/profile/b811f350-c001-70a4-257f-2ad6df4e78f5/projects/Screenshot-2025-04-02-043341.png)
 #### Insights: 
 - All 28 films have Adventure and Animation as the common genres and Computer Animation as the common subgenre.
 - Pixar started out with Buddy Comedy (Toy Story) but it's trend is declining- there is no film after 2015 with Buddy Comedy subgenre.
 - Meanwhile, Coming-of-Age subgenre is on a growing trend.
-#### Box Office Performance:
+### Box Office Performance:
 Calculated the Gross Profit and ROI%(Return on Investment) as performance indicators. A film is considered-  
 financially successful if the ROI% >100% or ROI > 2, or simply, if it earned more than twice its budget.  
 ROI% = 0% (or ROI = 1) is the break even point indicating no gain no loss, meaning it earned exactly what it cost to make.  
@@ -30,6 +30,9 @@ ROI% < 0% (or ROI < 1) means the film lost money, it's considered a failure.
 - Box Office earning, Gross Profit and ROI%(Return on Investment) are at the lowest during 2020,2022 which was the Pandemic period. Then it recovered and **_Inside Out 2_** in 2024 brought an all time high box office earning of $1.7B.
 - **_Toy Story (1995)_** still leading in ROI% is Pixar's most successful film commercially (and rating wise too).
 - 3 films showed negative ROI% (loss)- **_Soul_**,  **_Onward_**,  **_Turning Red_**, **_Turning Red_** being the most unsuccessful film commercially.
+### Ratings: 
+Analyzed the Rotten Tomatoes, Metacritic, and IMDb scores and to see if the critics ratings and audience ratings match I have used a dumbbell chart.  
+![Image](https://cdn.mavenanalytics.io/public/profile/b811f350-c001-70a4-257f-2ad6df4e78f5/projects/Screenshot-2025-04-02-052901.png)  
 
 
 
