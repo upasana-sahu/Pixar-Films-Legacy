@@ -16,6 +16,9 @@ I divided the dashboard into 5 pages - Genre, Box Office Performance, Ratings, A
 #### Genre: 
 - For Subgenre Trend I calculated the percentage of films and used a scatter plot to show film percentage in a subgenre over the year.
 ![Image](https://cdn.mavenanalytics.io/public/profile/b811f350-c001-70a4-257f-2ad6df4e78f5/projects/Screenshot-2025-04-02-043341.png)
-
+#### Insights: 
+- All 28 films have Adventure and Animation as the common genres and Computer Animation as the common subgenre.
+- Pixar started out with Buddy Comedy (Toy Story) but it's trend is declining- there is no film after 2015 with Buddy Comedy subgenre.
+- Meanwhile, Coming-of-Age subgenre is on a growing trend.
 
 
