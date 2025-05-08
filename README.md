@@ -15,7 +15,7 @@ Imported the tables in Power BI to visualize the data. Let's look at the dashboa
 I divided the dashboard into 5 pages - Genre, Box Office Performance, Ratings, Academy and Creators since these are the key aspects of the legacy and help analyze the effect of the films.
 #### Genre: 
 - For Subgenre Trend I calculated the percentage of films and used a scatter plot to show film percentage in a subgenre over the year.
-!(https://cdn.mavenanalytics.io/public/profile/b811f350-c001-70a4-257f-2ad6df4e78f5/projects/Screenshot-2025-04-02-043341.png)
+![Image](https://cdn.mavenanalytics.io/public/profile/b811f350-c001-70a4-257f-2ad6df4e78f5/projects/Screenshot-2025-04-02-043341.png)
 
-!("C:\Users\hp\Pictures\Screenshots\Screenshot 2025-04-11 182329.png") 
+
 
