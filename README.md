@@ -20,5 +20,9 @@ I divided the dashboard into 5 pages - Genre, Box Office Performance, Ratings, A
 - All 28 films have Adventure and Animation as the common genres and Computer Animation as the common subgenre.
 - Pixar started out with Buddy Comedy (Toy Story) but it's trend is declining- there is no film after 2015 with Buddy Comedy subgenre.
 - Meanwhile, Coming-of-Age subgenre is on a growing trend.
-
+#### Box Office Performance:
+Calculated the Gross Profit and ROI%(Return on Investment) as performance indicators. A film is considered-
+financially successful if the ROI% >100% or ROI > 2, or simply, if it earned more than twice its budget. 
+ROI% = 0% (or ROI = 1) is the break even point indicating no gain no loss, meaning it earned exactly what it cost to make. 
+ROI% < 0% (or ROI < 1) means the film lost money, it's considered a failure.
 
