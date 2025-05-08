@@ -33,6 +33,29 @@ ROI% < 0% (or ROI < 1) means the film lost money, it's considered a failure.
 ### Ratings: 
 Analyzed the Rotten Tomatoes, Metacritic, and IMDb scores and to see if the critics ratings and audience ratings match I have used a dumbbell chart.  
 ![Image](https://cdn.mavenanalytics.io/public/profile/b811f350-c001-70a4-257f-2ad6df4e78f5/projects/Screenshot-2025-04-02-052901.png)  
+#### Insights:  
+- Overall, Rotten Tomatoes has higher scores than the Metacritic and IMDb score.
+- The drop in all 3 scores is the largest for **_Cars2_** in 2011 making it the least rated film overall.
+- The Pandemic didn't have any effect on the ratings.
+- **_Toy Story (1995)_** is the highest rated film overall.
+- Critics score is generally higher than audience score. Only 3 films, **_Cars 2_**, **_Cars 3_**, **_Elemental_** were rated higher by the audience than critics.
+- The biggest rating gap was for **_Turning Red_**, which was also the least profitable.
+### Academy:  
+To visualize the films, nominations, win, award categories in one place I used a matrix.  
+Also used a stacked column chart with year to show if the films win all the nominations. Only **30%** result in win.  
+![Image](https://cdn.mavenanalytics.io/public/profile/b811f350-c001-70a4-257f-2ad6df4e78f5/projects/Screenshot-2025-04-02-064746.png)  
+#### Insights:  
+- Academy only introduced the Animated Feature category in 2001, but it brought the most nominations and wins for Pixar films.
+- **_Wall-E_** had the most nominations(6).
+- Pixar's number of nominations and win % has been declining over the years with its last win in 2020 for **_Soul_**.
+### Creators:  
+![Image](https://cdn.mavenanalytics.io/public/profile/b811f350-c001-70a4-257f-2ad6df4e78f5/projects/Screenshot-2025-04-02-064951.png)  
+#### Insights: 
+- The top 10 creators by number of roles show Andrew Stanton on top with 20 roles, followed by Pete Docter with 14.
+- Andrew Stanton worked 80% of the time as a screenwriter or storywriter.
+- Andrew Stanton and Randy Newman have both worked in most number of Pixar films i.e. 9, followed by Michael Giacchino with 8 films.
+- 2 creators with the most number of roles (4) they have taken on- Andrew Stanton, Angus MacLane.
+## Conclusion:  
+Pixar’s legacy is built on emotional storytelling, genre innovation, and a core group of creative leaders. This analysis reveals what has driven its success—and what hasn’t—helping Pixar understand audience trends-what resonates with them and creative impact. These insights can guide smarter decisions that lead to more financially successful, critically acclaimed, and award-winning films.
 
-
-
+[Project Submission in Challenge](https://mavenanalytics.io/project/29992)
